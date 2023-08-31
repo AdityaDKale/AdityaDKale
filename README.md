@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kale</h1>
 <h3 align="center">An impassioned python developer from India</h3>
+<img align="right" alt="coding" width=400 src='animated_coding.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadkale&label=Profile%20views&color=0e75b6&style=flat" alt="adityadkale" /> </p>
 
