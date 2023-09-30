@@ -19,5 +19,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adityadkale&icon=3&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @adityadkale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityadkale)](https://holopin.io/@adityadkale)
