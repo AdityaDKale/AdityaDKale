@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width=400 src='animated_coding.gif'>
 
 # 💫 About Me:
-🔭 I’m currently working on UI/UX Design<br><br>🌱 I’m currently learning Open Source Development<br><br>💬 Ask me about Python, Flask, Bootstrap, Figma<br><br>📫 How to reach me kaditya21comp@student.mes.ac.in<br><br>⚡ Fun fact “Completely Automated Public Turing Test to Tell Computers and Humans Apart” is what CAPTCHA stands for.<br><br>Current doing 100 days LeetCode challenge. Check me out on X<br><br>
+🔭 I’m currently working on UI/UX Design<br><br>🌱 I’m currently learning Open Source Development<br><br>💬 Ask me about Python, Flask, Bootstrap, Figma<br><br>📫 How to reach me kaditya21comp@student.mes.ac.in<br><br>⚡ Fun fact “Completely Automated Public Turing Test to Tell Computers and Humans Apart” is what CAPTCHA stands for.<br><br>⚡Current doing 100 days LeetCode challenge. Check me out on X<br><br>
 
 
 ## 🌐 Socials:
