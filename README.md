@@ -1,6 +1,7 @@
 <img align="right" alt="Banner" src='Github Banner.png'>
 <h1 align="center">Hi 👋, I'm Aditya Kale</h1>
 <h3 align="center">An impassioned python developer from India</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityadkale)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="right" alt="coding" width=400 src='animated_coding.gif'>
 
 # 💫 About Me:
