@@ -1,8 +1,8 @@
-<img align="right" alt="Banner" src='Github Banner.png'>
+<img align="right" alt="Banner" src='media/Github Banner.png'>
 <h1 align="center">Hi 👋, I'm Aditya Kale</h1>
 <h3 align="center">An impassioned python developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaDKale" alt="AdityaDKale" /></a> </p>
-<img align="right" alt="coding" width=400 src='animated_coding.gif'>
+<img align="right" alt="coding" width=400 src='media/animated_coding.gif'>
 
 # 💫 About Me:
 🔭 I’m currently working on UI/UX Design<br><br>🌱 I’m currently learning Open Source Development<br><br>💬 Ask me about Python, Flask, Bootstrap, Figma<br><br>📫 How to reach me kaditya21comp@student.mes.ac.in<br><br>⚡ Fun fact “Completely Automated Public Turing Test to Tell Computers and Humans Apart” is what CAPTCHA stands for.<br><br>⚡Current doing 100 days LeetCode challenge. Check me out on X<br><br>
